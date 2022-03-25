@@ -9,6 +9,7 @@ public class GameManager : Singleton<GameManager>, ISaveable
     [SerializeField] private GameplayConfig gameplayConfig = null;
 
     [SerializeField] private GameObject pausePanel = null;
+    [SerializeField] private GameObject gameOverPanel = null;
 
     private Queue<int> colorIndexQueue = null;
     private uint currentScore = 0;
@@ -78,9 +79,10 @@ public class GameManager : Singleton<GameManager>, ISaveable
 
     public void GameOver()
     {
-        BlockInput = true;
+        gameOverPanel.SetActive(true);
         Timer.Stop();
         Timer.Reset();
+        BlockInput = true;
         SetHighScore();
         ClearResources();
         boardManager.ClearResources();
