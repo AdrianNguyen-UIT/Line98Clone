@@ -1,0 +1,13 @@
+# ninja log v5
+90	3072	6953758949598956	CMakeFiles/game.dir/UGAInput.cpp.o	39caec3952ec4931
+27	3215	6953758952179802	CMakeFiles/game.dir/UGAApplication.cpp.o	97e74c73b8cf45ab
+5139	6758	6953758985883986	E:/UnityProject/Lines98/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/156m575c/obj/arm64-v8a/libgame.so	95d6daf5de6b1414
+55	4095	6953758961992081	CMakeFiles/game.dir/UGADebug.cpp.o	a47fb0a11b8c977f
+106	3340	6953758953887002	CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	bf33146573fe5361
+74	5138	6953758971880943	CMakeFiles/game.dir/UGAEntry.cpp.o	9f7b4a68f3fde988
+49	2041	6953879684728635	CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	bf33146573fe5361
+26	2042	6953879684728635	CMakeFiles/game.dir/UGADebug.cpp.o	a47fb0a11b8c977f
+17	2044	6953879684683422	CMakeFiles/game.dir/UGAApplication.cpp.o	97e74c73b8cf45ab
+40	2045	6953879684683422	CMakeFiles/game.dir/UGAInput.cpp.o	39caec3952ec4931
+32	2326	6953879687578322	CMakeFiles/game.dir/UGAEntry.cpp.o	9f7b4a68f3fde988
+2326	3674	6953879695094203	E:/UnityProject/Lines98/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/156m575c/obj/arm64-v8a/libgame.so	95d6daf5de6b1414

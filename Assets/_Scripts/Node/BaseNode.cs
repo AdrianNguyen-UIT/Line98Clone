@@ -71,7 +71,7 @@ namespace TileNode
             gameManager.FindPath();
         }
 
-        protected virtual void OnMouseDown()
+        protected virtual void OnMouseUp()
         {
             if (gameManager.BlockInput)
                 return;

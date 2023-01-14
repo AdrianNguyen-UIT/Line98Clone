@@ -279,7 +279,7 @@ public class GameManager : Singleton<GameManager>, ISaveable
     }
 
 
-    public void  ClearExplodeKeys() => explodeKeys.Clear();
+    public void ClearExplodeKeys() => explodeKeys.Clear();
 
 
     #region Save Load

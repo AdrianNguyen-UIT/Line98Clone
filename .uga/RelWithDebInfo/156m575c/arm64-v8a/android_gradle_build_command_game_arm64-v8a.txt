@@ -1,0 +1,7 @@
+Executable : C:\Users\Admin\AppData\Local\Programs\Python\Python39\Scripts\ninja.exe
+arguments : 
+-C
+E:\UnityProject\Lines98\.uga\RelWithDebInfo\156m575c\arm64-v8a
+game
+jvmArgs : 
+

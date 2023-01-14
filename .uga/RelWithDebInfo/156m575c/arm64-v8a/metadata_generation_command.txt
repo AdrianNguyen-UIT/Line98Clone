@@ -1,0 +1,25 @@
+                    Executable : C:\Program Files\CMake\bin\cmake.exe
+arguments : 
+-HE:\UnityProject\Lines98\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=C:\Program Files\Unity\Hub\Editor\2023.1.0a21\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+-DCMAKE_ANDROID_NDK=C:\Program Files\Unity\Hub\Editor\2023.1.0a21\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+-DCMAKE_TOOLCHAIN_FILE=C:\Program Files\Unity\Hub\Editor\2023.1.0a21\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\Admin\AppData\Local\Programs\Python\Python39\Scripts\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\UnityProject\Lines98\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\156m575c\obj\arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=E:\UnityProject\Lines98\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\156m575c\obj\arm64-v8a
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-DCMAKE_FIND_ROOT_PATH=E:\UnityProject\Lines98\.uga\RelWithDebInfo\156m575c\prefab\arm64-v8a\prefab
+-BE:\UnityProject\Lines98\.uga\RelWithDebInfo\156m575c\arm64-v8a
+-GNinja
+-DBUILD_GRADLE_DIRECTORY=E:\UnityProject\Lines98\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2
