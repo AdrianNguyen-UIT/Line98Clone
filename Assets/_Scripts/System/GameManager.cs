@@ -227,6 +227,12 @@ public class GameManager : Singleton<GameManager>, ISaveable
 
     public void EndTurn()
     {
+        if (waypoints == null)
+        {
+            
+            return;
+        }
+
         MoveToTarget();
         boardManager.GrowQueueBalls();
         AttachQueueBallsToBoard();
